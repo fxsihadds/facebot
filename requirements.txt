@@ -1,0 +1,8 @@
+fbchat-muqit
+pillow
+requests
+bs4
+dataset
+rich
+flask
+yt-dlp[default]
